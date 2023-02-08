@@ -26,6 +26,7 @@ autom4te.cache
 /missing
 /stamp-h1
 
+*.log
 # https://www.gnu.org/software/libtool/
 
 /ltmain.sh
