@@ -5,7 +5,8 @@ Makefile.in
 /py-compile
 /test-driver
 /ylwrap
-# ignore
+*.py
+
 # http://www.gnu.org/software/autoconf
 
 autom4te.cache
