@@ -6,6 +6,7 @@ Makefile.in
 /test-driver
 /ylwrap
 # ignore
+# ignore 2
 # http://www.gnu.org/software/autoconf
 
 autom4te.cache
